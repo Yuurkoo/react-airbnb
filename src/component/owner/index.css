@@ -1,0 +1,32 @@
+.owner__block {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 20px;
+}
+
+.owner__image-block {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.owner__image {
+  border-radius: 50%;
+}
+
+.owner__info-block {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 20px;
+}
+
+.owner__info {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+
+.info {
+  margin-top: 20px;
+}

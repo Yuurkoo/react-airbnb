@@ -1,0 +1,12 @@
+.details {
+  display: flex;
+  gap: 8px;
+  flex-direction: column;
+}
+
+.details__info {
+  display: flex;
+  gap: 24px;
+  flex-direction: column;
+  margin-top: 20px;
+}

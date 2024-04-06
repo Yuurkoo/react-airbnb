@@ -1,0 +1,13 @@
+.title {
+  color: #000;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.item-block {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 20px;
+  margin-bottom: 20px;
+}
